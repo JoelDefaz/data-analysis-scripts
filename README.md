@@ -5,4 +5,4 @@ Realiza un analisis de las columnas de una tabla Excel
   Número de cédula
   Número de teléfono
   Dirección
-Despues de analisis genera una nueva hoja de Excel con los datos que estan erroneos según los parametros que he definido
+Despues de analisis genera una nueva hoja de Excel con los datos que estan erroneos según los parametros que se ha definido
